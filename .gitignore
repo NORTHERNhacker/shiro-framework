@@ -36,6 +36,4 @@ hs_err_pid*
 .idea/markdown-navigator-enh.xml
 .idea/markdown-navigator.xml
 .idea/misc.xml
-pom.xml
 shiro-framework.iml
-src/
